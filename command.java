@@ -1,4 +1,5 @@
 public class command {
     public static void main(String[] args) {
-        System.out.println(x:kaushal);    }
+        System.out.println("x: mohit");    }
 }
+
